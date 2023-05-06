@@ -1,0 +1,15 @@
+C:\Users\caowe\source\repos\SecureSend\SecureSend\bin\Debug\net6.0\SecureSend.exe
+C:\Users\caowe\source\repos\SecureSend\SecureSend\bin\Debug\net6.0\SecureSend.deps.json
+C:\Users\caowe\source\repos\SecureSend\SecureSend\bin\Debug\net6.0\SecureSend.runtimeconfig.json
+C:\Users\caowe\source\repos\SecureSend\SecureSend\bin\Debug\net6.0\SecureSend.dll
+C:\Users\caowe\source\repos\SecureSend\SecureSend\bin\Debug\net6.0\SecureSend.pdb
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\SecureSend.csproj.AssemblyReference.cache
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\SecureSend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\SecureSend.AssemblyInfoInputs.cache
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\SecureSend.AssemblyInfo.cs
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\SecureSend.csproj.CoreCompileInputs.cache
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\SecureSend.dll
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\refint\SecureSend.dll
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\SecureSend.pdb
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\SecureSend.genruntimeconfig.cache
+C:\Users\caowe\source\repos\SecureSend\SecureSend\obj\Debug\net6.0\ref\SecureSend.dll
